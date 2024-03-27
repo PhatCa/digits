@@ -9,7 +9,9 @@ const StuffItem = ({ stuff }) => (
     <td>{stuff.quantity}</td>
     <td>{stuff.condition}</td>
     <td>
-      <Link to={`/edit/${stuff._id}`}>Edit</Link>
+      <Link to={`/edit/${stuff._id}`}>
+        Edit
+      </Link>
     </td>
   </tr>
 );
