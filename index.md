@@ -21,6 +21,7 @@ Go to http://localhost:3000/list to preview the application.
 User will be able to create list of contacts by going to add Contact on the navbar.
 User will be able to view/edit their list of contacts in the Lists contact on the navbar.
 
+
 [//]: # (![]&#40;https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/landing-page.png&#41;)
 
 [//]: # ()
